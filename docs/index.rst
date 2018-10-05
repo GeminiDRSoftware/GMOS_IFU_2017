@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GMOS IFU tutorial
-=================
+GMOS IFU-2 PyRAF tutorial
+=========================
 
 | James Turner, Gemini Observatory
 | Aug. 2017 Chilean Gemini Users' meeting, La Serena
