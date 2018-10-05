@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cube.svg"
+   inkscape:export-filename="/home/jturner/docs/pres/LS_17/doc/cube.png"
+   inkscape:export-xdpi="300.01077"
+   inkscape:export-ydpi="300.01077">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4475">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix4477" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.82"
+         result="composite"
+         id="feComposite4479" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4481">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix4483" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.64"
+         result="composite"
+         id="feComposite4485" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4487">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix4489" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.46"
+         result="composite"
+         id="feComposite4491" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4493">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix4495" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.28"
+         result="composite"
+         id="feComposite4497" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4499">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix4501" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="0.1"
+         result="composite"
+         id="feComposite4503" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5985849"
+     inkscape:cx="191.48594"
+     inkscape:cy="802.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       style="filter:url(#filter4499)"
+       y="139.79469"
+       x="115.51587"
+       id="image4473"
+       preserveAspectRatio="none"
+       height="191.4171"
+       width="264.10715"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       style="filter:url(#filter4493)"
+       y="147.79469"
+       x="107.51587"
+       id="image4471"
+       preserveAspectRatio="none"
+       height="191.4171"
+       width="264.10715"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       style="filter:url(#filter4487)"
+       y="155.79469"
+       x="99.515869"
+       id="image4469"
+       preserveAspectRatio="none"
+       height="191.4171"
+       width="264.10715"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       style="filter:url(#filter4481)"
+       inkscape:export-ydpi="300.01077"
+       inkscape:export-xdpi="300.01077"
+       width="264.10715"
+       height="191.4171"
+       preserveAspectRatio="none"
+       id="image4257"
+       x="91.515869"
+       y="163.79469" />
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       inkscape:export-ydpi="300.01077"
+       inkscape:export-xdpi="300.01077"
+       style="fill:#b3b3b3;filter:url(#filter4475)"
+       y="171.79469"
+       x="83.515869"
+       id="image4255"
+       preserveAspectRatio="none"
+       height="191.4171"
+       width="264.10715" />
+    <image
+       sodipodi:absref="/home/jturner/docs/pres/LS_17/doc/std_cube_plane.png"
+       xlink:href="std_cube_plane.png"
+       inkscape:export-ydpi="300.01077"
+       inkscape:export-xdpi="300.01077"
+       width="264.10715"
+       height="191.4171"
+       preserveAspectRatio="none"
+       id="image4233"
+       x="75.515869"
+       y="179.79469" />
+  </g>
+</svg>
